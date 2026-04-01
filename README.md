@@ -2,7 +2,7 @@
   
 # <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=35&pause=1000&color=FF4D4D&width=400&lines=Leo+Mieres" alt="Leo Mieres">
 
-### <font color="#8E8E8E">🚀 Full Stack Developer Student | Administrative Expert | Soporte IT Junior</font>
+### <font color="#8E8E8E">🚀 Full Stack Developer Student | Administrative Expert</font>
 
 ---
 
@@ -62,7 +62,7 @@ Soy un profesional con **más de 6 años de trayectoria** en gestión administra
 
 <p align="left">
 <a href="mailto:leohmieres@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-<a href="https://linkedin.com/in/tu-perfil"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/leonardo-hernandez-mieres-818957277/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
 <div align="center">
