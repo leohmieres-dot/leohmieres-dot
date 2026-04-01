@@ -1,56 +1,70 @@
-# ¡Hola! Soy <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=30&pause=1000&color=B33939&width=300&lines=Leo+Mieres" alt="Leo Mieres" align="center"> 👋
+<div align="center">
+  
+# <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=35&pause=1000&color=FF4D4D&width=400&lines=Leo+Mieres" alt="Leo Mieres">
 
-### 🚀 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=400&size=20&pause=1000&color=8E8E8E&width=500&lines=Full+Stack+Developer+Student;Administrative+Expert;Soporte+IT+Junior" alt="Especialidades">
-
-[cite_start]Soy un profesional con más de 6 años de experiencia en gestión administrativa y atención al cliente en diversos sectores[cite: 6]. [cite_start]Actualmente, estoy evolucionando mi carrera hacia el desarrollo **Full Stack** y el **Soporte IT**, combinando mi capacidad analítica con la creación de soluciones tecnológicas robustas[cite: 8, 38].
+### <font color="#8E8E8E">🚀 Full Stack Developer Student | Administrative Expert | Soporte IT Junior</font>
 
 ---
 
-## 🛠️ Mi Stack Tecnológico
+<p align="center">
+  <img src="https://img.shields.io/badge/📍_Ubicación-Adrogué%2C_Buenos_Aires-red?style=flat-square" alt="Ubicación">
+  <img src="https://img.shields.io/badge/🌍_Disponibilidad-Remoto_(Arg%2FChi)-black?style=flat-square" alt="Disponibilidad">
+</p>
 
+</div>
+
+## 📑 <font color="#FF4D4D">Sobre Mí</font>
+Soy un profesional con **más de 6 años de trayectoria** en gestión administrativa y atención al cliente. Mi camino me ha llevado desde la **Licenciatura en Geografía** en Chile hasta el apasionante mundo del código en Argentina. Actualmente, fusiono mi capacidad de análisis con el desarrollo **Full Stack** para crear herramientas que optimicen procesos reales.
+
+---
+
+## 🛠️ <font color="#FF4D4D">Mi Stack Tecnológico</font>
+
+### <font color="#FFA500">⚡ Backend & Seguridad</font>
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT">
   <img src="https://img.shields.io/badge/Bcrypt.js-430098?style=for-the-badge&logo=bcrypt&logoColor=white" alt="Bcrypt">
-  <br>
-  
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white" alt="Sequelize">
+</p>
+
+### <font color="#00BFFF">🎨 Frontend & Diseño</font>
+<p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/Handlebars.js-FF7D00?style=for-the-badge&logo=handlebarsdotjs&logoColor=white" alt="HBS">
-  <br>
-  
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white" alt="Sequelize">
   <img src="https://img.shields.io/badge/AutoCAD-0696D7?style=for-the-badge&logo=autodesk&logoColor=white" alt="AutoCAD">
 </p>
 
 ---
 
-## 📈 Formación y Experiencia Relevante
+## 🚀 <font color="#FF4D4D">Proyectos Destacados</font>
 
-* [cite_start]🎓 **Licenciado en Geografía** por la Universidad de Concepción, Chile[cite: 34].
-* [cite_start]💻 **Bootcamp JavaScript:** Formación intensiva en desarrollo frontend, consumo de APIs y lógica asíncrona[cite: 38].
-* [cite_start]⚙️ **Soporte IT:** Experiencia en diagnóstico de conectividad, redes y soporte técnico telefónico[cite: 13, 32].
-* [cite_start]🏢 **Gestión Administrativa:** Amplia trayectoria en RRHH, facturación y control documental en empresas de Argentina y Chile[cite: 11, 15].
-
----
-
-## 📫 Conectemos
-
-* 💼 **LinkedIn:** [Tu Perfil de LinkedIn]
-* [cite_start]📧 **Email:** leohmieres@gmail.com [cite: 2]
-* [cite_start]🌍 **Ubicación:** Adrogué, Buenos Aires [cite: 3]
-* [cite_start]🌏 **Disponibilidad:** Remoto para Argentina y Chile [cite: 3]
+* 🏗️ **KanbanPro:** Mi proyecto actual. Una app de gestión de tareas con seguridad JWT y persistencia en Postgres.
+* 🛡️ **Cyber-Awareness:** Implementación de prácticas de seguridad digital en flujos administrativos.
+* 🌐 **Portfolio Industrial:** Mi carta de presentación digital diseñada para la eficiencia.
 
 ---
 
-### ⚡ Datos curiosos sobre mí
-* [cite_start]🌎 **Trayectoria Binacional:** He trabajado en roles clave de administración tanto en Santiago de Chile como en Buenos Aires[cite: 20, 24].
-* [cite_start]🗣️ **Multilingüe:** Soy nativo en español, manejo un portugués intermedio y sigo perfeccionando mi inglés[cite: 36].
-* [cite_start]🗺️ **De los Mapas al Código:** Mi formación como geógrafo me dio una visión analítica única que ahora aplico para estructurar bases de datos y lógica de backend[cite: 34].
-* [cite_start]🛠️ **Perfil Polivalente:** Puedo desde realizar un plano en AutoCAD hasta configurar una autenticación segura con JWT[cite: 14, 38].
+## ⚡ <font color="#FF4D4D">Datos Curiosos</font>
+
+* 🌏 **Espíritu Binacional:** Experiencia administrativa sólida tanto en **Chile** como en **Argentina**.
+* 🗺️ **Analista por Naturaleza:** Mi base como Geógrafo me permite entender estructuras de datos complejas desde una perspectiva espacial.
+* 💬 **Idiomas:** Nativo en 🇪🇸, Intermedio en 🇵🇹 y subiendo nivel en 🇺🇸.
+* 🛠️ **Problem Solver:** Mi combustible es un buen café y un bug difícil de resolver.
 
 ---
-*Hecho con ☕ y código por Leo Mieres*
+
+## 📫 <font color="#FF4D4D">¡Hablemos!</font>
+
+<p align="left">
+<a href="mailto:leohmieres@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+<a href="https://linkedin.com/in/tu-perfil"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+</p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
+</div>
