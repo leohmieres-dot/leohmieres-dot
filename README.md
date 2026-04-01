@@ -1,6 +1,6 @@
 # ¡Hola! Soy <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=30&pause=1000&color=B33939&width=300&lines=Leo+Mieres" alt="Leo Mieres" align="center"> 👋
 
-### 🚀 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=400&size=20&pause=1000&color=8E8E8E&width=500&lines=Full+Stack+Developer+Student;Backend+Enthusiast;Cybersecurity+Learner" alt="Especialidades">
+###  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=400&size=20&pause=1000&color=8E8E8E&width=500&lines=Full+Stack+Developer+Student;Backend+Enthusiast;Cybersecurity+Learner" alt="Especialidades">
 
 Soy un desarrollador en formación enfocado en construir soluciones robustas y escalables. Actualmente, estoy sumergido en el mundo del desarrollo **Full Stack**, con una fuerte inclinación hacia la arquitectura de servidores y la seguridad digital.
 
