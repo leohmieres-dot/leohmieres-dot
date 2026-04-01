@@ -1,6 +1,6 @@
-# ¡Hola! Soy Leo Mieres 👋
+# ¡Hola! Soy <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=30&pause=1000&color=B33939&width=300&lines=Leo+Mieres" alt="Leo Mieres" align="center"> 👋
 
-### 🚀 Full Stack Developer Student | Backend Enthusiast | Cybersecurity Learner
+### 🚀 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=400&size=20&pause=1000&color=8E8E8E&width=500&lines=Full+Stack+Developer+Student;Backend+Enthusiast;Cybersecurity+Learner" alt="Especialidades">
 
 Soy un desarrollador en formación enfocado en construir soluciones robustas y escalables. Actualmente, estoy sumergido en el mundo del desarrollo **Full Stack**, con una fuerte inclinación hacia la arquitectura de servidores y la seguridad digital.
 
@@ -8,12 +8,29 @@ Soy un desarrollador en formación enfocado en construir soluciones robustas y e
 
 ## 🛠️ Mi Stack Tecnológico
 
-| **Área** | **Tecnologías** |
-| :---------------- | :------------------------------------------------------------------------------------- |
-| **Backend** | `Node.js` `Express.js` `JWT` `Bcrypt`                                                 |
-| **Frontend** | `HTML5` `CSS3` `JavaScript (ES6+)` `Handlebars (HBS)`                                  |
-| **Bases de Datos**| `PostgreSQL` `Sequelize (ORM)`                                                        |
-| **Herramientas** | `Git` `GitHub` `Vercel` `NPM` `Postman`                                               |
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT">
+  <img src="https://img.shields.io/badge/Bcrypt.js-430098?style=for-the-badge&logo=bcrypt&logoColor=white" alt="Bcrypt">
+  <br>
+  
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Handlebars.js-FF7D00?style=for-the-badge&logo=handlebarsdotjs&logoColor=white" alt="HBS">
+  <br>
+  
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white" alt="Sequelize">
+  <br>
+  
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
+  <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
+</p>
 
 ---
 
@@ -34,8 +51,8 @@ Soy un desarrollador en formación enfocado en construir soluciones robustas y e
 
 ## 📫 Conectemos
 
-* 💼 **LinkedIn:** [Leonardo Hernandez M.](https://www.linkedin.com/in/leonardo-hernandez-mieres-818957277/)
-* 📧 **Email:** leohmieres@gmail.com
+* 💼 **LinkedIn:** [Tu Nombre en LinkedIn](https://linkedin.com/in/tu-perfil)
+* 📧 **Email:** tu-email@correo.com
 * 🌍 **Ubicación:** Buenos Aires, Argentina
 
 ---
