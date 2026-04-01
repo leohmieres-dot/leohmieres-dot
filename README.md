@@ -1,4 +1,4 @@
-¡Claro que sí, Leo! He analizado tu CV para extraer detalles específicos que demuestran tu trayectoria internacional entre Argentina y Chile y tu sólida base administrativa.Aquí tienes una versión mucho más completa y personalizada de tu README de perfil, eliminando las estadísticas y añadiendo datos curiosos que resaltan tu experiencia real:Markdown# ¡Hola! Soy <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=30&pause=1000&color=B33939&width=300&lines=Leo+Mieres" alt="Leo Mieres" align="center"> 👋
+# ¡Hola! Soy <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=30&pause=1000&color=B33939&width=300&lines=Leo+Mieres" alt="Leo Mieres" align="center"> 👋
 
 ### 🚀 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=400&size=20&pause=1000&color=8E8E8E&width=500&lines=Full+Stack+Developer+Student;Administrative+Expert;Soporte+IT+Junior" alt="Especialidades">
 
